@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\ApptesteVerificarVoto\ApptesteVerificarVoto\bin\Debug\net8.0\ApptesteVerificarVoto.exe
+C:\Users\Aluno\source\repos\ApptesteVerificarVoto\ApptesteVerificarVoto\bin\Debug\net8.0\ApptesteVerificarVoto.deps.json
+C:\Users\Aluno\source\repos\ApptesteVerificarVoto\ApptesteVerificarVoto\bin\Debug\net8.0\ApptesteVerificarVoto.runtimeconfig.json
+C:\Users\Aluno\source\repos\ApptesteVerificarVoto\ApptesteVerificarVoto\bin\Debug\net8.0\ApptesteVerificarVoto.dll
+C:\Users\Aluno\source\repos\ApptesteVerificarVoto\ApptesteVerificarVoto\bin\Debug\net8.0\ApptesteVerificarVoto.pdb
+C:\Users\Aluno\source\repos\ApptesteVerificarVoto\ApptesteVerificarVoto\obj\Debug\net8.0\ApptesteVerificarVoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\ApptesteVerificarVoto\ApptesteVerificarVoto\obj\Debug\net8.0\ApptesteVerificarVoto.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\ApptesteVerificarVoto\ApptesteVerificarVoto\obj\Debug\net8.0\ApptesteVerificarVoto.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\ApptesteVerificarVoto\ApptesteVerificarVoto\obj\Debug\net8.0\ApptesteVerificarVoto.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ApptesteVerificarVoto\ApptesteVerificarVoto\obj\Debug\net8.0\ApptesteVerificarVoto.dll
+C:\Users\Aluno\source\repos\ApptesteVerificarVoto\ApptesteVerificarVoto\obj\Debug\net8.0\refint\ApptesteVerificarVoto.dll
+C:\Users\Aluno\source\repos\ApptesteVerificarVoto\ApptesteVerificarVoto\obj\Debug\net8.0\ApptesteVerificarVoto.pdb
+C:\Users\Aluno\source\repos\ApptesteVerificarVoto\ApptesteVerificarVoto\obj\Debug\net8.0\ApptesteVerificarVoto.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\ApptesteVerificarVoto\ApptesteVerificarVoto\obj\Debug\net8.0\ref\ApptesteVerificarVoto.dll
